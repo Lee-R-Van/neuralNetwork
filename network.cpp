@@ -8,8 +8,5 @@ int main(){
 	int numImages = getNumImages(filename);
 	cerr<<numImages<<endl;
 
-	vector<layer> network;
-	network.resize(3);
-
 	return 0;
 }

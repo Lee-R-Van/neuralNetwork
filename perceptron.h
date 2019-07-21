@@ -24,4 +24,4 @@ class Network{
 		vector<Layer> layers;
 
 		void resizeLayers(int numLayers, int seed);
-}
+};
